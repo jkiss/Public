@@ -1,1 +1,1 @@
-# Images
+# Store public images
