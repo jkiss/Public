@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "name": "Who runs China?",
         "url": "https://news.cgtn.com/event/2019/whorunschina/index.html",
         "tags": [
@@ -10,6 +11,7 @@
         "cover": "https://raw.githubusercontent.com/jkiss/Public/master/2023/proj1/cover.jpg"
     },
     {
+        "id": 2,
         "name": "Super Virus",
         "url": "https://news.cgtn.com/event/2020/Super-Virus/index.html",
         "tags": [
@@ -20,6 +22,7 @@
         "cover": "https://raw.githubusercontent.com/jkiss/Public/master/2023/proj2/cover.jpg"
     },
     {
+        "id": 3,
         "name": "She Power",
         "url": "https://news.cgtn.com/event/2021/she-power/index.html",
         "tags": [
@@ -30,6 +33,7 @@
         "cover": "https://raw.githubusercontent.com/jkiss/Public/master/2023/proj3/cover.jpg"
     },
     {
+        "id": 4,
         "name": "China's battle against poverty",
         "url": "https://news.cgtn.com/event/2020/China-s-battle-against-poverty/index.html",
         "tags": [
