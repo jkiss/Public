@@ -7,7 +7,7 @@
             "Data Visualization",
             "Interactive Design"
         ],
-        "cover": ""
+        "cover": "https://raw.githubusercontent.com/jkiss/Public/master/2023/proj1/cover.jpg"
     },
     {
         "name": "Super Virus",
@@ -17,7 +17,7 @@
             "Data Visualization",
             "Interactive Design"
         ],
-        "cover": ""
+        "cover": "https://raw.githubusercontent.com/jkiss/Public/master/2023/proj2/cover.jpg"
     },
     {
         "name": "She Power",
@@ -27,7 +27,7 @@
             "Prototype Design",
             "Interactive Design"
         ],
-        "cover": ""
+        "cover": "https://raw.githubusercontent.com/jkiss/Public/master/2023/proj3/cover.jpg"
     },
     {
         "name": "China's battle against poverty",
@@ -36,6 +36,6 @@
             "Self-Coding",
             "Interactive Design"
         ],
-        "cover": ""
+        "cover": "https://raw.githubusercontent.com/jkiss/Public/master/2023/proj4/cover.png"
     }
 ]
