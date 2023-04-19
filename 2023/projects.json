@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Who runs China?",
+        "url": "https://news.cgtn.com/event/2019/whorunschina/index.html",
+        "tags": [
+            "Co-Coding",
+            "Data Visualization",
+            "Interactive Design"
+        ],
+        "cover": ""
+    },
+    {
+        "name": "Super Virus",
+        "url": "https://news.cgtn.com/event/2020/Super-Virus/index.html",
+        "tags": [
+            "Self-Coding",
+            "Data Visualization",
+            "Interactive Design"
+        ],
+        "cover": ""
+    },
+    {
+        "name": "She Power",
+        "url": "https://news.cgtn.com/event/2021/she-power/index.html",
+        "tags": [
+            "Self-Coding",
+            "Prototype Design",
+            "Interactive Design"
+        ],
+        "cover": ""
+    },
+    {
+        "name": "China's battle against poverty",
+        "url": "https://news.cgtn.com/event/2020/China-s-battle-against-poverty/index.html",
+        "tags": [
+            "Self-Coding",
+            "Interactive Design"
+        ],
+        "cover": ""
+    }
+]
